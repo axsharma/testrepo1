@@ -1,0 +1,7 @@
+{
+    "name": "axsonatype/testrepo1",
+    "description": "testrepo1 package on axsonatype GitHub account",
+    "require": {
+        "php": ">=7.4"
+    }
+}
