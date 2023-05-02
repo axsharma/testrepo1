@@ -1,6 +1,6 @@
 {
     "name": "axsonatype/testrepo1",
-    "description": "testrepo1 package on axsonatype GitHub account",
+    "description": "forked testrepo1 package on axsharma GitHub account. Pwned? Dunno",
     "require": {
         "php": ">=7.4"
     }
